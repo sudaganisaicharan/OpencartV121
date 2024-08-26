@@ -1,0 +1,128 @@
+2024-08-26 17:05:01 DEBUG TestNG:82 - suiteXmlPath: "C:\Selenium webdriver\OpencartV121\master.xml"
+2024-08-26 17:05:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-26 17:05:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-26 17:05:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-26 17:05:07 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-26 17:05:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-26 17:05:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-26 17:05:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-26 17:05:07 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-26 17:05:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-26 17:05:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-26 17:05:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-26 17:05:07 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-26 17:05:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-26 17:05:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-26 17:05:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-26 17:05:07 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-26 17:05:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-26 17:05:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-26 17:05:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-26 17:05:07 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-26 17:05:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-26 17:05:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-26 17:05:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-26 17:05:07 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-26 17:05:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-26 17:05:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-26 17:05:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-26 17:05:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-26 17:05:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-26 17:05:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-26 17:05:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-26 17:05:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-26 17:05:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-26 17:05:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-26 17:05:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-26 17:05:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-26 17:05:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-26 17:05:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-26 17:06:18 DEBUG TestNG:82 - suiteXmlPath: "C:\Selenium webdriver\OpencartV121\master.xml"
+2024-08-26 17:09:29 DEBUG TestNG:82 - suiteXmlPath: "C:\Selenium webdriver\OpencartV121\master.xml"
+2024-08-26 17:10:41 DEBUG TestNG:82 - suiteXmlPath: "C:\Selenium webdriver\OpencartV121\master.xml"
+2024-08-26 17:18:05 DEBUG TestNG:82 - suiteXmlPath: "C:\Selenium webdriver\OpencartV121\master.xml"
+2024-08-26 17:19:07 DEBUG TestNG:82 - suiteXmlPath: "C:\Selenium webdriver\OpencartV121\master.xml"
+2024-08-26 17:19:08 INFO  Utils:112 - [TestNG] Running:
+  C:\Selenium webdriver\OpencartV121\master.xml
+
+2024-08-26 18:01:17 DEBUG TestNG:82 - suiteXmlPath: "C:\Selenium webdriver\OpencartV121\master.xml"
+2024-08-26 18:01:23 INFO  TC001_AccountRegistrationTest:17 - ******* Starting TC001_AccountRegistrationTest *****
+2024-08-26 18:01:23 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link...
+2024-08-26 18:01:23 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register Link...
+2024-08-26 18:01:23 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
+2024-08-26 18:01:24 INFO  TC001_AccountRegistrationTest:43 - Validating expected message...
+2024-08-26 18:01:27 INFO  TC002_LoginTest:17 - **** Starting TC002_LoginTest  ****
+2024-08-26 18:01:27 DEBUG TC002_LoginTest:18 - capturing application debug logs....
+2024-08-26 18:01:27 INFO  TC002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-08-26 18:01:27 INFO  TC002_LoginTest:26 - clicked on login link under myaccount..
+2024-08-26 18:01:27 INFO  TC002_LoginTest:30 - Entering valid email and password..
+2024-08-26 18:01:28 INFO  TC002_LoginTest:34 - clicked on ligin button..
+2024-08-26 18:04:33 DEBUG TestNG:82 - suiteXmlPath: "C:\Selenium webdriver\OpencartV121\master.xml"
+2024-08-26 18:04:37 INFO  TC001_AccountRegistrationTest:17 - ******* Starting TC001_AccountRegistrationTest *****
+2024-08-26 18:04:37 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link...
+2024-08-26 18:04:37 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register Link...
+2024-08-26 18:04:37 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
+2024-08-26 18:04:38 INFO  TC001_AccountRegistrationTest:43 - Validating expected message...
+2024-08-26 18:04:41 INFO  TC002_LoginTest:17 - **** Starting TC002_LoginTest  ****
+2024-08-26 18:04:41 DEBUG TC002_LoginTest:18 - capturing application debug logs....
+2024-08-26 18:04:41 INFO  TC002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-08-26 18:04:41 INFO  TC002_LoginTest:26 - clicked on login link under myaccount..
+2024-08-26 18:04:41 INFO  TC002_LoginTest:30 - Entering valid email and password..
+2024-08-26 18:04:42 INFO  TC002_LoginTest:34 - clicked on ligin button..
+2024-08-26 18:04:42 INFO  TC002_LoginTest:48 - **** Finished TC002_LoginTest  ****
+2024-08-26 19:08:49 DEBUG TestNG:82 - suiteXmlPath: "C:\Selenium webdriver\OpencartV121\master.xml"
+2024-08-26 19:08:55 INFO  TC001_AccountRegistrationTest:17 - ******* Starting TC001_AccountRegistrationTest *****
+2024-08-26 19:08:56 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link...
+2024-08-26 19:08:58 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register Link...
+2024-08-26 19:08:58 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
+2024-08-26 19:08:59 INFO  TC001_AccountRegistrationTest:43 - Validating expected message...
+2024-08-26 19:09:03 INFO  TC002_LoginTest:17 - **** Starting TC002_LoginTest  ****
+2024-08-26 19:09:03 DEBUG TC002_LoginTest:18 - capturing application debug logs....
+2024-08-26 19:09:03 INFO  TC002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-08-26 19:09:04 INFO  TC002_LoginTest:26 - clicked on login link under myaccount..
+2024-08-26 19:09:04 INFO  TC002_LoginTest:30 - Entering valid email and password..
+2024-08-26 19:09:07 INFO  TC002_LoginTest:34 - clicked on ligin button..
+2024-08-26 19:09:07 INFO  TC002_LoginTest:48 - **** Finished TC002_LoginTest  ****
+2024-08-26 19:18:32 DEBUG TestNG:82 - suiteXmlPath: "C:\Selenium webdriver\OpencartV121\master.xml"
+2024-08-26 19:18:35 INFO  TC001_AccountRegistrationTest:17 - ******* Starting TC001_AccountRegistrationTest *****
+2024-08-26 19:18:36 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link...
+2024-08-26 19:18:36 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register Link...
+2024-08-26 19:18:36 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
+2024-08-26 19:18:37 INFO  TC001_AccountRegistrationTest:43 - Validating expected message...
+2024-08-26 19:18:39 INFO  TC002_LoginTest:17 - **** Starting TC002_LoginTest  ****
+2024-08-26 19:18:39 DEBUG TC002_LoginTest:18 - capturing application debug logs....
+2024-08-26 19:18:40 INFO  TC002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-08-26 19:18:40 INFO  TC002_LoginTest:26 - clicked on login link under myaccount..
+2024-08-26 19:18:40 INFO  TC002_LoginTest:30 - Entering valid email and password..
+2024-08-26 19:18:41 INFO  TC002_LoginTest:34 - clicked on ligin button..
+2024-08-26 19:18:41 INFO  TC002_LoginTest:48 - **** Finished TC002_LoginTest  ****
